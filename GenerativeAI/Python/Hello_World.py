@@ -1,0 +1,5 @@
+a = int(input("Enter something: "))
+# b = int(input("Enter something: "))
+print(float(a))
+print(type(float(a)))
+print(type(a))
